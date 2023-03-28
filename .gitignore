@@ -1,0 +1,18 @@
+# Ignore Mac system files
+.DS_store
+
+
+# ignore by type
+# *.fmp12
+*.fp12
+
+
+# Ignore local bkp,tmp,orig
+bkp
+tmp
+orig
+_bkp
+_tmp
+_orig
+_log
+
