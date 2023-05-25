@@ -3,16 +3,11 @@
 
 
 # ignore by type
-# *.fmp12
-*.fp12
+*.fmp12
 
-
-# Ignore local bkp,tmp,orig
-bkp
-tmp
-orig
+# ignore by location
 _bkp
 _tmp
-_orig
 _log
+_logs
 
